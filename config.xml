@@ -4,14 +4,14 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app2-MOG"
 version = "1.0.0">
 
-<name>PhoneGap-Monica</name>
+<name>PhoneGap-David</name>
 
 <description>
 Aplicacion que describe el funcionamiento de PhoneGap
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Mónica Olivarría
+<author  email="davidcleon117@gmail.com">
+David Cuevas
 </author>
 
 <icon src="images/phonegap.png" gap:density="ldpi" gap:platform="android" />
