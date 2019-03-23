@@ -13,6 +13,9 @@ Aplicacion que describe el funcionamiento de PhoneGap
 <author  email="davidcleon117@gmail.com">
 David Cuevas
 </author>
-
+<icon src="img/phone.png" gap:density="ldpi" gap:platform="android" />
+<icon src="img/phone.png" gap:density="mdpi" gap:platform="android" />
+<icon src="img/phone.png" gap:density="hdpi" gap:platform="android" />
+<icon src="img/phone.png" gap:density="xhdpi" gap:platform="android" />
 
 </widget>
